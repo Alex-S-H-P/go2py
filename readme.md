@@ -1,5 +1,11 @@
 # Go2Py
 
+<h1>NOT FUNCTIONAL YET</h1>
+
+- [Go2Py](#go2py)
+  - [Limitations](#limitations)
+  - [Conversions](#conversions)
+
 ## Limitations
 
 The following limitations indicate the limits of the programs as it stands now. It is our goal to fix every single one of them in due time.
